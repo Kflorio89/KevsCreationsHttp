@@ -4,7 +4,7 @@
       "windowsAuthentication": false,
       "anonymousAuthentication": true,
       "iisExpress": {
-        "applicationUrl": "http://kevscreations.com",
+        "applicationUrl": "http://localhost:47939",
         "sslPort": 0
       }
     },
@@ -14,7 +14,7 @@
         "dotnetRunMessages": true,
         "launchBrowser": true,
         "inspectUri": "{wsProtocol}://{url.hostname}:{url.port}/_framework/debug/ws-proxy?browser={browserInspectUri}",
-        "applicationUrl": "http://kevscreations.com",
+        "applicationUrl": "http://localhost:5115",
         "environmentVariables": {
           "ASPNETCORE_ENVIRONMENT": "Development"
         }
