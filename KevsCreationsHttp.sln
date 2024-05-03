@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KevsCreationsHttp", "KevsCreationsHttp\KevsCreationsHttp\KevsCreationsHttp.csproj", "{5CCA1FFE-516A-42D1-B917-36B27D322371}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KevsCreationsHttp.Client", "KevsCreationsHttp\KevsCreationsHttp.Client\KevsCreationsHttp.Client.csproj", "{55804790-778F-451E-A40F-8580B00CF9DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CCA1FFE-516A-42D1-B917-36B27D322371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CCA1FFE-516A-42D1-B917-36B27D322371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CCA1FFE-516A-42D1-B917-36B27D322371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CCA1FFE-516A-42D1-B917-36B27D322371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55804790-778F-451E-A40F-8580B00CF9DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55804790-778F-451E-A40F-8580B00CF9DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55804790-778F-451E-A40F-8580B00CF9DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55804790-778F-451E-A40F-8580B00CF9DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61C39507-4925-4DA8-BC7C-8BED5E89BAF0}
+	EndGlobalSection
+EndGlobal
